@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "sequelize": "^3.5.1"
+    "sequelize": "^4.37.9"
   },
   "devDependencies": {
     "supertest": "^0.13.0",
